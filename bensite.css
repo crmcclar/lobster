@@ -1,0 +1,18 @@
+ 
+body{
+	font-family:helvetica;
+	position:relative;
+	left:37px;
+	}
+h1{
+	font-size:50px;
+	}
+#holdthis{
+	font-weight:bold;
+	}
+a:link{
+	font-color:black;
+	}
+a:hover{
+	font-size:105%;
+	}
